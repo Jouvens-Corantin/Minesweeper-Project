@@ -30,6 +30,3 @@ To build the project into a standalone executable using the backend structure:
 3. Compile the source code to generate the executable:
    - On Windows: `g++ main.cpp -o Minesweeper.exe -lsfml-graphics -lsfml-window -lsfml-system`
 4. Run the generated `Minesweeper.exe`.
-
----
-Developed as part of a programming project.
