@@ -8,6 +8,7 @@ This is a desktop implementation of the classic Minesweeper game, developed usin
 - **Recursive Tile Clearing**: Automated reveal of empty neighbor tiles when a '0' tile is clicked.
 - **Game Status Tracking**: Includes win/loss conditions and a reset mechanism.
 - **Flagging System**: Ability to mark potential mines using right-click.
+- **Leaderboard**: Completion times are taken and stored in a .txt file.
 
 ## Memory Management
 A critical aspect of this project is the robust management of system resources.
